@@ -1,2 +1,2 @@
-# staticWebSite
-contribute in this repo for hacktoberfest
+# prework-study-guide
+Bootcamp Prework Study Guide for Students
